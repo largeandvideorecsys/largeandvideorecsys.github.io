@@ -1,0 +1,12 @@
+# Site settings
+title: VideoRecSys + LargeRecSys
+email: largevideorecsys@gmail.com
+description: VideoRecSys + LargeRecSys workshop is being held at ACM RecSys 2024 in Bari, Italy!> # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
