@@ -40,3 +40,8 @@ table.minimalistBlack tfoot {
 table.minimalistBlack tfoot td {
   font-size: 14px;
 }
+table.minimalistBlack ::selection {
+  background-color: #FFFFFF; /* Black background when selected */
+  color: #000000; /* White text when selected */
+}
+
